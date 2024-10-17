@@ -20,8 +20,6 @@ Your insights will help Waze leadership optimize the company’s retention strat
 
 Part 1 of Project
 
-Waze’s data team is in the earliest stages of the churn project. The following tasks are needed before the team can begin the data analysis process:
-
 1.Build a dataframe for the churn dataset
 
 2.Examine data type of each column
